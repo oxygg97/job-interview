@@ -1,0 +1,35 @@
+
+ * Question 1: Introduce yourself:
+
+ Hi,
+
+ My name is Ala, I’m 24 years old, I’m from Gabès,Tunisia,bornon november 6th,1997.
+ graduated high school on 2017/2018 major economy and management, then i went to language school of Tunis to study fundemental English, 
+ i didn't finish my first year that i felt it wasn't for me so basically i'm university drop-out then went to technical school (BTS) to study construction electricity
+for 2 and 6 month and i graduated.
+ I have studied also web develepment basics on Java-Script for front-and-back-end.
+ I speak 3 languages: Arabic, french and English. And I have 1 year and 6 months with electricity and consturction company.
+
+ * Question 2: Name three reasons that you should be recruited instead of another candidate:
+
+ I believe that my experience with technology, specifically in the web design space, make me the best match for this position. 
+ In my previous job, I was responsible for maintaining and updating our company website. This required keeping employee profiles
+ updated and continuously posting information regarding upcoming events. I truly enjoyed what I was doing, which is what drew 
+ me to this position with your company. I would love to bring the coding and content skills I learned there to this position.
+
+ * Question 3: Are you responsible?
+
+ Yes I am a responsible person, I am able to consciously make decisions, conduct behaviors that seek to improve oneself and help others.
+ And of course I accept the consequences of my own actions and decisions.
+
+ * Question 4: Tell me about your academic training.
+
+ i graduated high school on 2017/2018 major economy and management, then i went to language school of Tunis to study fundemental English, 
+ i didn't finish my first year that i felt it wasn't for me so basically i'm university drop-out then went to technical school (BTS) to study construction electricity
+for 2 and 6 month and i graduated.
+
+ * Question 5: Name three of your flaws:
+
+ - Inexperience with specific software or a non-essential skill.
+ - Tendency to take on too much responsibility.
+ - i lose focus easily sometimes when i get distracted by noises (ADHD)
